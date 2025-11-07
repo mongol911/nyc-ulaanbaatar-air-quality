@@ -14,7 +14,6 @@ How do PM2.5 and PM10 concentrations in Ulaanbaatar and New York City compare, a
 
 ## Project Structure
 - `data/` – Contains raw and processed datasets for both cities.  
-- `notebooks/` – Jupyter notebooks for data cleaning, exploratory analysis, and visualization.  
 - `src/` – Scripts for automated data retrieval, preprocessing, or modeling.  
 - `README.md` – Project description and instructions.  
 - `LICENSE` – MIT License for code and documentation use.  
