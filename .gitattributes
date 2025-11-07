@@ -1,1 +1,2 @@
 data/raw/Ulaanbaatar[[:space:]]Particulate[[:space:]]Matter[[:space:]]Sensor[[:space:]]Data.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
