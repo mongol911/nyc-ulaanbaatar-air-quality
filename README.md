@@ -1,7 +1,7 @@
 # NYC vs Mongolia Air Pollution Analysis
 
 ## Overview
-This project compares fine particulate matter (PM) levels between **New York City (NYC)** and **Mongolian Capital City (UB)** using publicly available environmental monitoring data.  
+This project compares fine particulate matter (PM2.5) levels between **New York City (NYC)** and **Mongolian Capital City (UB)** using publicly available environmental monitoring data.  
 The analysis includes annual trends, seasonal comparisons, and a heatmap of PM levels over multiple years.
 
 ## Research Question
