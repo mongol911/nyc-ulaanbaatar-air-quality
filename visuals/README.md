@@ -1,1 +1,0 @@
-# Visuals for pollution analysis
